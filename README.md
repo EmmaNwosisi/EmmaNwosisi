@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sotxnye
+- 👋 Hi, I’m @Sotonye
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on ...
