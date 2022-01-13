@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmmaNwosisi
+- 👋 Hi, I’m @Sotxnye
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on ...
