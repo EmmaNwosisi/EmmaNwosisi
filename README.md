@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sotonye
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in product design and fullstack engineering
+- 🌱 I’m currently learning frontend engineering
+- 💞️ I’m looking to collaborate on design and development
 - 📫 How to reach me @sotxnye on twitter
 
 <!---
